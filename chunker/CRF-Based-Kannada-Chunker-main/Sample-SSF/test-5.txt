@@ -1,0 +1,715 @@
+<Sentence id='1'>
+1	ಡೌನ್	N_NNP
+2	ಸಿಂಡ್ರೋಮ್	N_NNP
+3	ಟ್ರೈಸೊಮಿ	N_NNP
+4	೨೧	QT_QTC
+5	ಎಂದೂ	CC_CCS
+6	ಕರೆಯಲ್ಪಡುತ್ತದೆ	V_VM_VF
+7	.	RD_PUNC
+</Sentence>
+
+<Sentence id='2'>
+1	ಇದು	PR_PRP
+2	ವರ್ಣತಂತು	N_NN
+3	೨೧ರ	N_NN
+4	ಮೂರನೇ	QT_QTO
+5	ನಕಲಿನ	N_NN
+6	ಎಲ್ಲಾ	JJ
+7	ಅಥವಾ	CC_CCD
+8	ಭಾಗದ	JJ
+9	ಉಪಸ್ಥಿತಿಯಿಂದ	N_NN
+10	ಉಂಟು	V_VM_VNG
+11	ಆಗುವ	V_VAUX
+12	ಅನುವಂಶಿಕ	JJ
+13	ಕಾಯಿಲೆ	N_NN
+14	.	RD_PUNC
+</Sentence>
+
+<Sentence id='3'>
+1	ಇದು	PR_PRP
+2	ಸಾಮಾನ್ಯವಾಗಿ	RB
+3	ದೈಹಿಕ	JJ
+4	ಬೆಳವಣಿಗೆಯ	N_NNV
+5	ವಿಳಂಬಗಳು	N_NN
+6	,	RD_PUNC
+7	ಸೌಮ್ಯದಿಂದ	N_NN
+8	ಮಧ್ಯಮ	N_NN
+9	ಬೌದ್ಧಿಕ	JJ
+10	ಅಂಗ	N_NN
+11	ವೈಕಲ್ಯ	N_NN
+12	ಮತ್ತು	CC_CCD
+13	ಮುಖದ	N_NN
+14	ವಿಶಿಷ್ಟ	JJ
+15	ಲಕ್ಷಣಗಳೊಂದಿಗೆ	N_NN
+16	ಸಂಬಂಧ	N_NN
+17	ಹೊಂದಿದೆ	V_VM_VF
+18	.	RD_PUNC
+</Sentence>
+
+<Sentence id='4'>
+1	ಡೌನ್	N_NNP
+2	ಸಿಂಡ್ರೋಮ್	N_NNP
+3	ಹೊಂದಿ	V_VM_VNF
+4	ಇರುವ	V_VAUX
+5	ಯುವ	JJ
+6	ವಯಸ್ಕರ	N_NN
+7	ಸರಾಸರಿ	JJ
+8	ಬುದ್ಧಿಮತ್ತೆಯ	N_NN
+9	ಪ್ರಮಾಣ	N_NN
+10	೫೦	QT_QTC
+11	ಆಗಿದೆ	V_VM_VNF
+12	,	RD_PUNC
+13	ಇದು	PR_PRP
+14	೮	QT_QTC
+15	ಅಥವಾ	CC_CCD
+16	೯	QT_QTC
+17	ವರ್ಷಗಳ	N_NN
+18	ಮಗುವಿನ	N_NN
+19	ಮಾನಸಿಕ	JJ
+20	ಸಾಮರ್ಥ್ಯಕ್ಕೆ	N_NN
+21	ಸಮ	N_NN
+22	ಆಗಿ	V_VM_VF
+23	ಇರುತ್ತದೆ	V_VAUX
+24	,	RD_PUNC
+25	ಆದರೆ	CC_CCS
+26	ಇದು	PR_PRP
+27	ವ್ಯಾಪಕವಾಗಿ	RP_INTF
+28	ಬದಲು	RB
+29	ಆಗಬಹುದು	V_VM_VF
+30	.	RD_PUNC
+</Sentence>
+
+<Sentence id='5'>
+1	ಡೌನ್	N_NNP
+2	ಸಿಂಡ್ರೋಮ್	N_NNP
+3	ಸಂಭವನೀಯತೆಯು	N_NN
+4	೨೦	QT_QTC
+5	ವರ್ಷಗಳ	N_NN
+6	ತಾಯಂದಿರಲ್ಲಿ	N_NN
+7	೦.೧	QT_QTC
+8	%	RD_SYM
+9	ರಿಂದ	PSP
+10	೪೫	QT_QTC
+11	ವರ್ಷ	N_NN
+12	ವಯಸ್ಸಿನವರಲ್ಲಿ	N_NN
+13	೩	QT_QTC
+14	%	RD_SYM
+15	ಕ್ಕೆ	PSP
+16	ಹೆಚ್ಚು	N_NN
+17	ಆಗುತ್ತದೆ	V_VM_VF
+18	.	RD_PUNC
+</Sentence>
+
+<Sentence id='6'>
+1	ಗರ್ಭಾವಸ್ಥೆಯಲ್ಲಿ	N_NN
+2	ಡೌನ್	N_NNP
+3	ಸಿಂಡ್ರೋಮ್	N_NNP
+4	ಅನ್ನು	PSP
+5	ಪ್ರಸವಪೂರ್ವ	JJ
+6	ತಪಾಸಣೆಯ	N_NNV
+7	ಮೂಲಕ	RP_RPD
+8	ಗುರುತಿಸಬಹುದು	V_VM_VF
+9	ಮತ್ತು	CC_CCD
+10	ನಂತರ	N_NST
+11	ರೋಗ	JJ
+12	ನಿರ್ಣಯ	N_NN
+13	ಪರೀಕ್ಷೆ	N_NN
+14	ಅಥವಾ	CC_CCD
+15	ಜನನದ	N_NN
+16	ನಂತರ	N_NST
+17	ನೇರ	JJ
+18	ವೀಕ್ಷಣೆ	N_NNV
+19	ಮತ್ತು	CC_CCD
+20	ಅನುವಂಶಿಕ	JJ
+21	ಪರೀಕ್ಷೆಯ	N_NN
+22	ಮೂಲಕ	RP_RPD
+23	ಗುರುತಿಸಬಹುದು	V_VM_VF
+24	.	RD_PUNC
+</Sentence>
+
+<Sentence id='7'>
+1	ಡೌನ್	N_NNP
+2	ಸಿಂಡ್ರೋಮ್‌ಗೆ	N_NNP
+3	ಯಾವುದೇ	DM_DMI
+4	ಚಿಕಿತ್ಸೆ	N_NN
+5	ಇಲ್ಲ	V_VM_VF
+6	.	RD_PUNC
+</Sentence>
+
+<Sentence id='8'>
+1	ಜೀವನದ	N_NN
+2	ಗುಣಮಟ್ಟವನ್ನು	N_NN
+3	ಸುಧಾರಿಸಲು	V_VM_VINF
+4	ಶಿಕ್ಷಣ	N_NN
+5	ಮತ್ತು	CC_CCD
+6	ಕಾಳಜಿಯನ್ನು	N_NN
+7	ತೋರಿಸಲು	V_VM_VF
+8	ಆಗುತ್ತದೆ	V_VAUX
+9	.	RD_PUNC
+</Sentence>
+
+<Sentence id='9'>
+1	ಡೌನ್	N_NNP
+2	ಸಿಂಡ್ರೋಮ್	N_NNP
+3	ಹೊಂದಿ	V_VM_VNF
+4	ಇರುವ	V_VAUX
+5	ಕೆಲವು	QT_QTF
+6	ಮಕ್ಕಳು	N_NN
+7	ವಿಶಿಷ್ಟ	RP_INTF
+8	ಶಾಲಾ	JJ
+9	ತರಗತಿಗಳಲ್ಲಿ	N_NN
+10	ಶಿಕ್ಷಣ	N_NN
+11	ಪಡೆದರೆ	V_VM_VNF
+12	,	RD_PUNC
+13	ಇತರರಿಗೆ	PR_PRP
+14	ಹೆಚ್ಚು	RP_INTF
+15	ವಿಶೇಷ	JJ
+16	ಶಿಕ್ಷಣದ	N_NN
+17	ಅಗತ್ಯ	N_NN
+18	ಇರುತ್ತದೆ	V_VM_VF
+19	.	RD_PUNC
+</Sentence>
+
+<Sentence id='10'>
+1	ಡೌನ್	N_NNP
+2	ಸಿಂಡ್ರೋಮ್	N_NNP
+3	ಮಾನವರಲ್ಲಿ	N_NN
+4	ಸಾಮಾನ್ಯವಾಗಿ	RB
+5	ಕಂಡು	V_VM_VNG
+6	ಬರುವ	V_VAUX
+7	ವರ್ಣತಂತು	JJ
+8	ಅಸಹಜತೆಗಳಲ್ಲಿ	N_NN
+9	ಒಂದು	QT_QTC
+10	ಆಗಿದೆ	V_VM_VF
+11	.	RD_PUNC
+</Sentence>
+
+<Sentence id='11'>
+1	ಇದು	PR_PRP
+2	ಪ್ರತಿ	JJ
+3	ವರ್ಷ	N_NN
+4	ಜನಿಸುವ	V_VM_VNG
+5	೧೦೦೦	QT_QTC
+6	ಶಿಶುಗಳಲ್ಲಿ	N_NN
+7	ಸುಮಾರು	N_NN
+8	ಒಂದು	QT_QTC
+9	ಮಗುವಿನಲ್ಲಿ	N_NN
+10	ಕಂಡು	V_VM_VF
+11	ಬರುತ್ತದೆ	V_VAUX
+12	.	RD_PUNC
+</Sentence>
+
+<Sentence id='12'>
+1	ಡೌನ್	N_NNP
+2	ಸಿಂಡ್ರೋಮ್‌ನ	N_NNP
+3	ಅನುವಂಶಿಕ	JJ
+4	ಕಾರಣವನ್ನು	N_NN
+5	1959ರಲ್ಲಿ	N_NN
+6	ಕಂಡು	V_VM_VF
+7	ಹಿಡಿಯಲು	V_VAUX
+8	ಆಯಿತು	V_VAUX
+9	.	RD_PUNC
+</Sentence>
+
+<Sentence id='13'>
+1	ಡೌನ್	N_NNP
+2	ಸಿಂಡ್ರೋಮ್	N_NNP
+3	ಇರುವವರು	V_VM_VNG
+4	ಯಾವಾಗಲೂ	RB
+5	ದೈಹಿಕ	JJ
+6	ಮತ್ತು	CC_CCD
+7	ಬೌದ್ಧಿಕ	JJ
+8	ವಿಕಲಾಂಗತೆಯನ್ನು	N_NN
+9	ಹೊಂದಿ	V_VM_VF
+10	ಇರುತ್ತಾರೆ	V_VAUX
+11	.	RD_PUNC
+</Sentence>
+
+<Sentence id='14'>
+1	ವಯಸ್ಕರಂತೆ	N_NN
+2	,	RD_PUNC
+3	ಅವರ	PR_PRP
+4	ಮಾನಸಿಕ	JJ
+5	ಸಾಮರ್ಥ್ಯಗಳು	N_NN
+6	ಸಾಮಾನ್ಯವಾಗಿ	RB
+7	೮	QT_QTC
+8	ಅಥವಾ	CC_CCD
+9	೯	QT_QTC
+10	ವರ್ಷಗಳ	N_NN
+11	ವಯಸ್ಸಿನವರಂತೆಯೇ	N_NN
+12	ಇರುತ್ತವೆ	V_VM_VF
+13	.	RD_PUNC
+</Sentence>
+
+<Sentence id='15'>
+1	ಜನ್ಮಜಾತ	JJ
+2	ಹೃದಯ	N_NN
+3	ದೋಷ	N_NN
+4	,	RD_PUNC
+5	ಅಪಸ್ಮಾರ	N_NN
+6	,	RD_PUNC
+7	ರಕ್ತ	JJ
+8	ಕ್ಯಾನ್ಸರ್	N_NN
+9	,	RD_PUNC
+10	ಥೈರಾಯ್ಡ್	JJ
+11	ಕಾಯಿಲೆಗಳು	N_NN
+12	ಮತ್ತು	CC_CCD
+13	ಮಾನಸಿಕ	JJ
+14	ಅಸ್ವಸ್ಥತೆಗಳು	N_NN
+15	ಸೇರಿದಂತೆ	V_VM_VNF
+16	ಹಲವಾರು	QT_QTF
+17	ಆರೋಗ್ಯ	JJ
+18	ಸಮಸ್ಯೆಗಳ	N_NN
+19	ಅಪಾಯ	N_NN
+20	ಹೊಂದಿ	V_VM_VF
+21	ಇರುತ್ತಾರೆ	V_VAUX
+22	.	RD_PUNC
+</Sentence>
+
+<Sentence id='16'>
+1	ಡೌನ್	N_NNP
+2	ಸಿಂಡ್ರೋಮ್	N_NNP
+3	ಇರುವ	V_VM_VNG
+4	ಜನರು	N_NN
+5	ಸಣ್ಣ	JJ
+6	ಗಲ್ಲ	N_NN
+7	,	RD_PUNC
+8	ಓರೆಯಾದ	JJ
+9	ಕಣ್ಣುಗಳು	N_NN
+10	,	RD_PUNC
+11	ಚಪ್ಪಟೆ	JJ
+12	ಮೂಗು	N_NN
+13	,	RD_PUNC
+14	ಸಣ್ಣ	JJ
+15	ಬಾಯಿ	N_NN
+16	ಮತ್ತು	CC_CCD
+17	ತುಲನಾತ್ಮಕವಾಗಿ	RB
+18	ದೊಡ್ಡ	JJ
+19	ನಾಲಗೆಯಿಂದ	N_NN
+20	ಚಾಚಿ	V_VM_VNF
+21	ಕೊಂಡು	V_VAUX
+22	ಇರುವ	V_VAUX
+23	ನಾಲಗೆ	N_NN
+24	.	RD_PUNC
+</Sentence>
+
+<Sentence id='17'>
+1	ಈ	DM_DMD
+2	ವಾಯು	JJ
+3	ಮಾರ್ಗ	N_NN
+4	ಬದಲಾವಣೆಗಳು	N_NNV
+5	ಡೌನ್	N_NNP
+6	ಸಿಂಡ್ರೋಮ್	N_NNP
+7	ಹೊಂದಿ	V_VM_VNF
+8	ಇರುವ	V_VAUX
+9	ಅರ್ಧದಷ್ಟು	QT_QTF
+10	ಜನರಲ್ಲಿ	N_NN
+11	ಪ್ರತಿರೋಧಕ	JJ
+12	ನಿದ್ರಾ	N_NN
+13	ಉಸಿರುಕಟ್ಟುವಿಕೆಗೆ	N_NNV
+14	ಕಾರಣ	N_NN
+15	ಆಗುತ್ತವೆ	V_VM_VF
+16	.	RD_PUNC
+</Sentence>
+
+<Sentence id='18'>
+1	ಇತರ	JJ
+2	ಸಾಮಾನ್ಯ	JJ
+3	ಲಕ್ಷಣಗಳು	N_NN
+4	:	RD_PUNC
+5	ಚಪ್ಪಟೆ	JJ
+6	ಮತ್ತು	CC_CCD
+7	ಅಗಲವಾದ	JJ
+8	ಮುಖ	N_NN
+9	,	RD_PUNC
+10	ಸಣ್ಣ	JJ
+11	ಕುತ್ತಿಗೆ	N_NN
+12	,	RD_PUNC
+13	ಅತಿಯಾದ	RP_INTF
+14	ಜಂಟಿ	JJ
+15	ನಮ್ಯತೆ	N_NN
+16	,	RD_PUNC
+17	ದೊಡ್ಡ	JJ
+18	ಹೆಬ್ಬೆರಳು	N_NN
+19	ಮತ್ತು	CC_CCD
+20	ಸಣ್ಣ	JJ
+21	ಬೆರಳುಗಳು	N_NN
+22	.	RD_PUNC
+</Sentence>
+
+<Sentence id='19'>
+1	ಎತ್ತರದ	JJ
+2	ಬೆಳವಣಿಗೆಯು	N_NNV
+3	ನಿಧಾನವಾಗಿ	RB
+4	ಇರುತ್ತದೆ	V_VM_VNF
+5	,	RD_PUNC
+6	ಇದರ	PR_PRP
+7	ಪರಿಣಾಮವಾಗಿ	N_NN
+8	ವಯಸ್ಕರು	N_NN
+9	ಕಡಿಮೆ	JJ
+10	ನಿಲುವನ್ನು	N_NNV
+11	ಹೊಂದಿ	V_VM_VF
+12	ಇರುತ್ತಾರೆ	V_VAUX
+13	.	RD_PUNC
+</Sentence>
+
+<Sentence id='20'>
+1	ಪುರುಷರ	N_NN
+2	ಸರಾಸರಿ	JJ
+3	ಎತ್ತರ	N_NN
+4	೧೫೪	QT_QTC
+5	ಸೆಂ.ಮೀ	RP_CL
+6	ಮತ್ತು	CC_CCD
+7	ಮಹಿಳೆಯರು	N_NN
+8	೧೪೨	QT_QTC
+9	ಸೆಂ.ಮೀ	RP_CL
+10	ಹೊಂದಿ	V_VM_VF
+11	ಇರುತ್ತಾರೆ	V_VAUX
+12	.	RD_PUNC
+</Sentence>
+
+<Sentence id='21'>
+1	ಡೌನ್	N_NNP
+2	ಸಿಂಡ್ರೋಮ್	N_NNP
+3	ಹೊಂದಿ	V_VM_VNF
+4	ಇರುವ	V_VAUX
+5	ವ್ಯಕ್ತಿಗಳು	N_NN
+6	ವಯಸ್ಸು	N_NN
+7	ಆದಂತೆ	V_VM_VNF
+8	ಬೊಜ್ಜು	N_NN
+9	ಬರುವ	V_VM_VNG
+10	ಅಪಾಯವನ್ನು	N_NN
+11	ಹೊಂದಿ	V_VM_VF
+12	ಇರುತ್ತಾರೆ	V_VAUX
+13	.	RD_PUNC
+</Sentence>
+
+<Sentence id='22'>
+1	ಸಾಮಾನ್ಯವಾಗಿ	RB
+2	,	RD_PUNC
+3	ಡೌನ್	N_NNP
+4	ಸಿಂಡ್ರೋಮ್	N_NNP
+5	ಹೊಂದಿ	V_VM_VNF
+6	ಇರುವ	V_VAUX
+7	ವ್ಯಕ್ತಿಗಳು	N_NN
+8	ಮಾತನ್ನು	N_NN
+9	ಆಡುವ	V_VM_VNG
+10	ಸಾಮರ್ಥ್ಯಕ್ಕಿಂತ	N_NN
+11	ಉತ್ತಮ	RP_INTF
+12	ಭಾಷಾ	JJ
+13	ತಿಳಿವಳಿಕೆಯನ್ನು	N_NNV
+14	ಹೊಂದಿ	V_VM_VF
+15	ಇರುತ್ತಾರೆ	V_VAUX
+16	.	RD_PUNC
+</Sentence>
+
+<Sentence id='23'>
+1	೩೦	QT_QTC
+2	ವರ್ಷಗಳನ್ನು	N_NN
+3	ತಲುಪಿದ	V_VM_VNG
+4	ನಂತರ	N_NST
+5	,	RD_PUNC
+6	ಕೆಲವರು	PR_PRI
+7	ಮಾತನ್ನು	N_NN
+8	ಆಡುವ	V_VM_VNG
+9	ಸಾಮರ್ಥ್ಯವನ್ನು	N_NN
+10	ಕಳೆದು	V_VM_VF
+11	ಕೊಳ್ಳಬಹುದು	V_VAUX
+12	.	RD_PUNC
+</Sentence>
+
+<Sentence id='24'>
+1	ವೃಷಣ	JJ
+2	ಕ್ಯಾನ್ಸರ್	N_NN
+3	ಮತ್ತು	CC_CCD
+4	ಕೆಲವು	DM_DMI
+5	ರಕ್ತ	JJ
+6	ಕ್ಯಾನ್ಸರ್	N_NN
+7	ಕೂಡ	RP_RPD
+8	ಬರುವ	V_VM_VNG
+9	ಸಾಧ್ಯತೆಗಳು	N_NN
+10	ಇವೆ	V_VM_VF
+11	.	RD_PUNC
+</Sentence>
+
+<Sentence id='25'>
+1	ಡೌನ್	N_NNP
+2	ಸಿಂಡ್ರೋಮ್	N_NNP
+3	ಹೊಂದಿ	V_VM_VNF
+4	ಇರುವ	V_VAUX
+5	ಮಕ್ಕಳಲ್ಲಿ	N_NN
+6	,	RD_PUNC
+7	ಮಾನಸಿಕ	JJ
+8	ಅಸ್ವಸ್ಥತೆಯು	N_NN
+9	ಸುಮಾರು	N_NN
+10	೩೦	QT_QTC
+11	%	RD_SYM
+12	ಕಂಡು	V_VM_VF
+13	ಬರುತ್ತದೆ	V_VAUX
+14	.	RD_PUNC
+</Sentence>
+
+<Sentence id='26'>
+1	ಡೌನ್	N_NNP
+2	ಸಿಂಡ್ರೋಮ್	N_NNP
+3	ಹೊಂದಿ	V_VM_VNF
+4	ಇರುವ	V_VAUX
+5	ಜನರು	N_NN
+6	ವ್ಯಾಪಕವಾದ	JJ
+7	ಭಾವನೆಗಳನ್ನು	N_NN
+8	ಅನುಭವಿಸುತ್ತಾರೆ	V_VM_VF
+9	.	RD_PUNC
+</Sentence>
+
+<Sentence id='27'>
+1	ಡೌನ್	N_NNP
+2	ಸಿಂಡ್ರೋಮ್	N_NNP
+3	ಹೊಂದಿ	V_VM_VNF
+4	ಇರುವ	V_VAUX
+5	ಜನರು	N_NN
+6	ಸಾಮಾನ್ಯವಾಗಿ	RB
+7	ಸಂತೋಷವಾಗಿ	RB
+8	ಇದ್ದರೆ	V_VM_VNF
+9	,	RD_PUNC
+10	ಪ್ರೌಢಾವಸ್ಥೆಯಲ್ಲಿ	N_NN
+11	ಖಿನ್ನತೆ	N_NN
+12	ಮತ್ತು	CC_CCD
+13	ಆತಂಕದ	JJ
+14	ಲಕ್ಷಣಗಳು	N_NN
+15	ಬೆಳೆಯಬಹುದು	V_VM_VF
+16	.	RD_PUNC
+</Sentence>
+
+<Sentence id='28'>
+1	ಸ್ಕ್ರೀನಿಂಗ್	JJ
+2	ಪರೀಕ್ಷೆಗಳು	N_NN
+3	ಡೌನ್	N_NNP
+4	ಸಿಂಡ್ರೋಮ್	N_NNP
+5	ನ	PSP
+6	ಹೆಚ್ಚಿನ	JJ
+7	ಅಪಾಯವನ್ನು	N_NN
+8	ತಡೆಗಟ್ಟುತ್ತದೆ	V_VM_VF
+9	.	RD_PUNC
+</Sentence>
+
+<Sentence id='29'>
+1	ಆಮ್ನಿಯೋಸೆಂಟಿಸಿಸ್	N_NNP
+2	ಮತ್ತು	CC_CCD
+3	ಕೊರಿಯೊನಿಕ್	N_NNP
+4	ವಿಲ್ಲಸ್	N_NNP
+5	ಸ್ಯಾಂಪ್ಲಿಂಗ್	N_NNP
+6	ಹೆಚ್ಚು	RP_INTF
+7	ವಿಶ್ವಾಸಾರ್ಹ	JJ
+8	ಪರೀಕ್ಷೆಗಳು	N_NN
+9	,	RD_PUNC
+10	ಆದರೆ	CC_CCS
+11	ಅವು	PR_PRP
+12	ಗರ್ಭಪಾತದ	JJ
+13	ಅಪಾಯವನ್ನು	N_NN
+14	೦.೫	QT_QTC
+15	%	RD_SYM
+16	ರಿಂದ	PSP
+17	೧	QT_QTC
+18	%	RD_SYM
+19	ನವರೆಗೆ	PSP
+20	ಹೆಚ್ಚಿಸುತ್ತವೆ	V_VM_VF
+21	.	RD_PUNC
+</Sentence>
+
+<Sentence id='30'>
+1	ಜನನದ	JJ
+2	ಸಮಯದಲ್ಲಿ	N_NN
+3	ಮಗುವಿನ	N_NN
+4	ದೈಹಿಕ	JJ
+5	ನೋಟವನ್ನು	N_NNV
+6	ಆಧರಿಸಿ	V_VM_VNF
+7	ರೋಗ	JJ
+8	ನಿರ್ಣಯವನ್ನು	N_NN
+9	ಹೆಚ್ಚಾಗಿ	RB
+10	ಮಾಡುತ್ತಾರೆ	V_VM_VF
+11	.	RD_PUNC
+</Sentence>
+
+<Sentence id='31'>
+1	ರೋಗ	JJ
+2	ನಿರ್ಣಯವನ್ನು	N_NN
+3	ದೃಢೀಕರಿಸಲು	V_VM_VINF
+4	ಮಗುವಿನ	N_NN
+5	ಕ್ರೋಮೋಸೋಮ್‌ಗಳ	N_NN
+6	ವಿಶ್ಲೇಷಣೆ	N_NNV
+7	ಅಗತ್ಯ	N_NN
+8	.	RD_PUNC
+</Sentence>
+
+<Sentence id='32'>
+1	ಇದು	PR_PRP
+2	ಮಕ್ಕಳನ್ನು	N_NN
+3	ಹೊಂದುವ	V_VM_VNG
+4	ಅಪಾಯವನ್ನು	N_NN
+5	ನಿರ್ಧರಿಸಲು	V_VM_VINF
+6	ಸಹಾಯ	N_NN
+7	ಮಾಡುತ್ತದೆ	V_VM_VF
+8	.	RD_PUNC
+</Sentence>
+
+<Sentence id='33'>
+1	ಮೊದಲ	N_NST
+2	ಅಥವಾ	CC_CCD
+3	ಎರಡನೆಯ	QT_QTO
+4	ತ್ರೈಮಾಸಿಕದಲ್ಲಿ	N_NN
+5	ಡೌನ್	N_NNP
+6	ಸಿಂಡ್ರೋಮ್	N_NNP
+7	ನ	PSP
+8	ಅಪಾಯವನ್ನು	N_NN
+9	ತಪ್ಪಿಸಲು	V_VM_VINF
+10	ಹಲವಾರು	QT_QTF
+11	ರಕ್ತ	JJ
+12	ಗುರುತುಗಳನ್ನು	N_NN
+13	ಅಳೆಯಬಹುದು	V_VM_VF
+14	.	RD_PUNC
+</Sentence>
+
+<Sentence id='34'>
+1	ಎರಡೂ	JJ
+2	ತ್ರೈಮಾಸಿಕಗಳಲ್ಲಿ	N_NN
+3	ಪರೀಕ್ಷೆಯನ್ನು	N_NN
+4	ಕೆಲವೊಮ್ಮೆ	RB
+5	ಶಿಫಾರಸು	N_NN
+6	ಮಾಡಲು	V_VM_VF
+7	ಆಗುತ್ತದೆ	V_VAUX
+8	ಮತ್ತು	CC_CCD
+9	ಪರೀಕ್ಷಾ	JJ
+10	ಫಲಿತಾಂಶಗಳನ್ನು	N_NN
+11	ಹೆಚ್ಚಾಗಿ	RB
+12	ಅಲ್ಟ್ರಾಸೌಂಡ್	JJ
+13	ಫಲಿತಾಂಶಗಳೊಂದಿಗೆ	N_NN
+14	ಸಂಯೋಜಿಸಲು	V_VM_VF
+15	ಆಗುತ್ತದೆ	V_VAUX
+16	.	RD_PUNC
+</Sentence>
+
+<Sentence id='35'>
+1	ಎರಡನೆಯ	QT_QTO
+2	ತ್ರೈಮಾಸಿಕದಲ್ಲಿ	N_NN
+3	,	RD_PUNC
+4	ಎರಡು	QT_QTC
+5	ಅಥವಾ	CC_CCD
+6	ಮೂರು	QT_QTC
+7	ಪರೀಕ್ಷೆಗಳನ್ನು	N_NN
+8	ಎರಡು	QT_QTC
+9	ಅಥವಾ	CC_CCD
+10	ಮೂರು	QT_QTC
+11	ಸಂಯೋಜನೆಗಳೊಂದಿಗೆ	N_NN
+12	ಬಳಸಲು	V_VM_VF
+13	ಆಗುತ್ತದೆ	V_VAUX
+14	.	RD_PUNC
+</Sentence>
+
+<Sentence id='36'>
+1	ಇದರಿಂದ	PR_PRP
+2	೬೦	QT_QTC
+3	-	RD_SYM
+4	೭೦	QT_QTC
+5	%	RD_SYM
+6	ಪ್ರಕರಣಗಳನ್ನು	N_NN
+7	ಪತ್ತೆ	N_NN
+8	ಮಾಡಬಹುದು	V_VM_VF
+9	.	RD_PUNC
+</Sentence>
+
+<Sentence id='37'>
+1	ಭ್ರೂಣದ	N_NN
+2	ಡಿಎನ್‌ಎಗಾಗಿ	N_NNP
+3	ತಾಯಿಯ	N_NN
+4	ರಕ್ತವನ್ನು	N_NN
+5	ಪರೀಕ್ಷಿಸಲು	V_VM_VF
+6	ಆಗುತ್ತದೆ	V_VAUX
+7	.	RD_PUNC
+</Sentence>
+
+<Sentence id='38'>
+1	ಬಾಲ್ಯದ	JJ
+2	ಮಧ್ಯಸ್ಥಿಕೆ	N_NN
+3	,	RD_PUNC
+4	ಸಾಮಾನ್ಯ	JJ
+5	ಸಮಸ್ಯೆಗಳಿಗೆ	N_NN
+6	ತಪಾಸಣೆ	N_NNV
+7	,	RD_PUNC
+8	ಸೂಚಿಸಿದ	JJ
+9	ಸ್ಥಳದಲ್ಲಿ	N_NN
+10	ವೈದ್ಯಕೀಯ	JJ
+11	ಚಿಕಿತ್ಸೆ	N_NN
+12	,	RD_PUNC
+13	ಉತ್ತಮ	RP_INTF
+14	ಕುಟುಂಬ	JJ
+15	ವಾತಾವರಣ	N_NN
+16	ಮತ್ತು	CC_CCD
+17	ಕೆಲಸಕ್ಕೆ	N_NN
+18	ಸಂಬಂಧಿಸಿದ	V_VM_VNG
+19	ತರಬೇತಿಯಂತಹ	JJ
+20	ಪ್ರಯತ್ನಗಳು	N_NN
+21	ಡೌನ್	N_NNP
+22	ಸಿಂಡ್ರೋಮ್	N_NNP
+23	ಹೊಂದಿ	V_VM_VNF
+24	ಇರುವ	V_VAUX
+25	ಮಕ್ಕಳ	N_NN
+26	ಬೆಳವಣಿಗೆಯನ್ನು	N_NNV
+27	ಸುಧಾರಿಸುತ್ತದೆ	V_VM_VF
+28	.	RD_PUNC
+</Sentence>
+
+<Sentence id='39'>
+1	ಶಿಕ್ಷಣ	N_NN
+2	ಮತ್ತು	CC_CCD
+3	ಸರಿಯಾದ	JJ
+4	ಆರೈಕೆ	N_NNV
+5	ಜೀವನದ	JJ
+6	ಗುಣಮಟ್ಟವನ್ನು	N_NN
+7	ಸುಧಾರಿಸುತ್ತದೆ	V_VM_VF
+8	.	RD_PUNC
+</Sentence>
+
+<Sentence id='40'>
+1	ಬಾಧಿತ	JJ
+2	ಮಗುವನ್ನು	N_NN
+3	ಬೆಳೆಸುವುದಕ್ಕಿಂತ	V_VM_VNF
+4	ಡೌನ್	N_NNP
+5	ಸಿಂಡ್ರೋಮ್	N_NNP
+6	ಹೊಂದಿದ	V_VM_VNG
+7	ಮಗುವನ್ನು	N_NN
+8	ಬೆಳೆಸುವುದು	V_VM_VNG
+9	ಪೋಷಕರಿಗೆ	N_NN
+10	ಹೆಚ್ಚು	JJ
+11	ಕೆಲಸ	N_NN
+12	.	RD_PUNC
+</Sentence>
+
+<Sentence id='41'>
+1	ಡೌನ್	N_NNP
+2	ಸಿಂಡ್ರೋಮ್	N_NNP
+3	ಹೊಂದಿ	V_VM_VNF
+4	ಇರುವ	V_VAUX
+5	ಶಾಲಾ	JJ
+6	-	RD_SYM
+7	ವಯಸ್ಸಿನ	N_NN
+8	ಮಕ್ಕಳು	N_NN
+9	ಅಂತರ್ಗತ	JJ
+10	ಶಿಕ್ಷಣದಿಂದ	N_NN
+11	ಪ್ರಯೋಜನ	N_NN
+12	ಪಡೆಯಬಹುದು	V_VM_VNF
+13	,	RD_PUNC
+14	ಆ	DM_DMD
+15	ಮೂಲಕ	RP_RPD
+16	ವಿಭಿನ್ನ	JJ
+17	ಸಾಮರ್ಥ್ಯದ	N_NN
+18	ವಿದ್ಯಾರ್ಥಿಗಳನ್ನು	N_NN
+19	ಅದೇ	DM_DMD
+20	ವಯಸ್ಸಿನ	N_NN
+21	ತಮ್ಮ	PR_PRF
+22	ಗೆಳೆಯರೊಂದಿಗೆ	N_NN
+23	ತರಗತಿಗಳಲ್ಲಿ	N_NN
+24	ಇರಿಸಲು	V_VM_VF
+25	ಆಗುತ್ತದೆ	V_VAUX
+26	.	RD_PUNC
+</Sentence>
+

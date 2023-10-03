@@ -1,0 +1,744 @@
+<Sentence id="5302">
+1	ರಾಜ್ಯಪತ್ರದ	N_NN	
+2	ಬಗೆಗಿನ	N_NN	
+3	ವಿವರಗಳು	N_NN	
+4	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5303">
+1	ತಮಿಳುನಾಡು	N_NNP	
+2	ರಾಜ್ಯಪತ್ರವು	N_NN	
+3	ಸರ್ಕಾರ	N_NN	
+4	ಮತ್ತು	CC_CCD	
+5	ಜನರ	N_NN	
+6	ನಡುವೆ	N_NN	
+7	ಸೇತುವೆಯಾಗಿ	N_NN	
+8	ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ	V_VM_VF	
+9	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5304">
+1	ಸಾರ್ವಜನಿಕರಿಗೆ	N_NN	
+2	ತಿಳಿಸಬೇಕಾದ	V_VM_VNF	
+3	ಸರ್ಕಾರಿ	JJ	
+4	ಆದೇಶಗಳು	N_NN	
+5	,	RD_PUNC	
+6	ಭೂಸ್ವಾಧೀನ	N_NN	
+7	ಆದೇಶಗಳು	N_NN	
+8	,	RD_PUNC	
+9	ಕಾರ್ಮಿಕ	N_NN	
+10	ನ್ಯಾಯಮಂಡಳಿ	N_NN	
+11	ಆದೇಶಗಳು	N_NN	
+12	,	RD_PUNC	
+13	ತೆರಿಗೆ	N_NN	
+14	ಆದೇಶಗಳು	N_NN	
+15	,	RD_PUNC	
+16	ಸಮಾಜ	N_NN	
+17	ಕಲ್ಯಾಣ	N_NN	
+18	ಯೋಜನೆಗಳು	N_NN	
+19	ಇತ್ಯಾದಿಗಳನ್ನು	RP_RPD	
+20	ರಾಜ್ಯಪತ್ರದಲ್ಲಿ	N_NN	
+21	ಪ್ರಕಟಿಸಲಾಗುವುದು	V_VM_VF	
+22	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5305">
+1	ತಮಿಳುನಾಡು	N_NNP	
+2	ರಾಜ್ಯಪತ್ರದ	N_NN	
+3	ವಿವಿಧ	JJ	
+4	ವಿಭಾಗಗಳು	N_NN	
+5	ಮತ್ತು	CC_CCD	
+6	ಅವುಗಳಲ್ಲಿ	PR_PRP	
+7	ಪ್ರಕಟವಾದ	V_VM_VNF	
+8	ವಿಷಯದ	N_NN	
+9	ವಿವರಗಳನ್ನು	N_NN	
+10	ಕೆಳಗೆ	N_NST	
+11	ನೀಡಲಾಗಿದೆ	V_VM_VF	
+12	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5306">
+1	ಭಾಗ	N_NN	
+2	I	RD_PUNC	
+3	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5307">
+1	ಅಖಿಲ	N_NNP	
+2	ಭಾರತ	N_NNP	
+3	ಉದ್ಯೋಗಗಳಿಗೆ	N_NN	
+4	ಬಡ್ತಿ	N_NN	
+5	,	RD_PUNC	
+6	ವಜಾ	N_NN	
+7	ಮರಣದ	N_NN	
+8	ಸೂಚನೆಗಳು	N_NN	
+9	,	RD_PUNC	
+10	ಮ್ಯಾಜಿಸ್ಟ್ರೇಟ್‌ಗಳ	N_NN	
+11	ಪದಗ್ರಹಣ	N_NN	
+12	ವಿಧಿ	N_NN	
+13	,	RD_PUNC	
+14	ಗೌರವಾನ್ವಿತ	JJ	
+15	ಮಂತ್ರಿಗಳಲ್ಲಿ	N_NN	
+16	ಹುದ್ದೆಗಳ	N_NN	
+17	ಹಂಚಿಕೆಗೆ	N_NN	
+18	ಸಂಬಂಧಿಸಿದ	V_VM_VNF	
+19	ಅಧಿಸೂಚನೆಗಳು	N_NN	
+20	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5308">
+1	ಮೋಟಾರು	N_NN	
+2	ವಾಹನ	N_NN	
+3	ಕಾಯ್ದೆಯಡಿ	V_VM_VNF	
+4	ಮೋಟಾರು	N_NN	
+5	ವಾಹನ	N_NN	
+6	ತೆರಿಗೆ	N_NN	
+7	ಪಾವತಿಯಿಂದ	N_NN	
+8	ಕೆಲವು	DM_DMI	
+9	ವಾಹನಗಳಿಗೆ	N_NN	
+10	ವಿನಾಯಿತಿ	N_NN	
+11	,	RD_PUNC	
+12	ಭೂ	N_NN	
+13	ಸ್ವಾಧೀನ	N_NN	
+14	,	RD_PUNC	
+15	ಸಾಲದ	N_NN	
+16	ಅಧಿಸೂಚನೆಗಳು	N_NN	
+17	,	RD_PUNC	
+18	ಬಸ್	N_NN	
+19	ಮಾರ್ಗಗಳ	N_NN	
+20	ರಾಷ್ಟ್ರೀಕರಣ	N_NN	
+21	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5309">
+1	ಕೈಗಾರಿಕಾ	N_NN	
+2	ವಿವಾದಗಳ	N_NN	
+3	ಕಾಯಿದೆ	N_NN	
+4	,	RD_PUNC	
+5	ಮುದ್ರಾಂಕ	N_NN	
+6	ಕಾಯಿದೆ	N_NN	
+7	,	RD_PUNC	
+8	ಹಣಕಾಸು	N_NN	
+9	ಸಂಸ್ಥೆಗಳ	N_NN	
+10	ಕಾಯಿದೆ	N_NN	
+11	,	RD_PUNC	
+12	ನೋಂದಣಿ	N_NN	
+13	ಕಾಯಿದೆ	N_NN	
+14	,	RD_PUNC	
+15	ಕಾರ್ಮಿಕ	N_NN	
+16	ರಕ್ಷಣೆ	N_NN	
+17	ಮತ್ತು	CC_CCD	
+18	ಕನಿಷ್ಠ	JJ	
+19	ವೇತನ	N_NN	
+20	ನಿಗದಿ	N_NN	
+21	ಕಾಯಿದೆ	N_NN	
+22	,	RD_PUNC	
+23	ಅಪರಾಧಿ	N_NN	
+24	ಪೊಲೀಸ್	N_NN	
+25	ಠಾಣೆಗಳ	N_NN	
+26	ಗಡಿ	N_NN	
+27	ಗುರುತಿಸುವಿಕೆ	N_NN	
+28	,	RD_PUNC	
+29	ತಮಿಳುನಾಡು	N_NNP	
+30	ಅರಣ್ಯ	N_NN	
+31	ಗುರುತಿಸುವಿಕೆ	N_NN	
+32	ಕಾಯಿದೆ	N_NN	
+33	,	RD_PUNC	
+34	ಭಾರತೀಯ	N_NNP	
+35	ಕ್ರಿಶ್ಚಿಯನ್	N_NNP	
+36	ವಿವಾಹ	N_NN	
+37	ಕಾಯಿದೆ	N_NN	
+38	,	RD_PUNC	
+39	ನಗರಾಭಿವೃದ್ಧಿ	N_NN	
+40	ಯೋಜನೆ	N_NN	
+41	ತಿದ್ದುಪಡಿ	V_VM_VNF	
+42	,	RD_PUNC	
+43	ಸರ್ಕಾರಿ	JJ	
+44	ರಹಸ್ಯ	N_NN	
+45	ಕಾಯಿದೆ	N_NN	
+46	,	RD_PUNC	
+47	ತಮಿಳುನಾಡು	N_NNP	
+48	ವಿಶ್ವವಿದ್ಯಾನಿಲಯ	N_NN	
+49	ಕಾಯ್ದೆ	V_VM_VNF	
+50	ನಿಯಮಗಳು	N_NN	
+51	,	RD_PUNC	
+52	ತಮಿಳುನಾಡು	N_NNP	
+53	ಮುಖ್ಯಮಂತ್ರಿ	N_NN	
+54	ಪೊಲೀಸ್	N_NN	
+55	ಇಲಾಖೆಗೆ	N_NN	
+56	ಪದಕಗಳನ್ನು	N_NN	
+57	ನೀಡುವುದು	V_VM_VNG	
+58	,	RD_PUNC	
+59	ಎಂ2	QT_QTC	
+60	ನಿಯಂತ್ರಣ	N_NN	
+61	ಕಾಯಿದೆ	N_NN	
+62	,	RD_PUNC	
+63	ಎರಿಸರಾಯ	N_NNP	
+64	ಇಂಡಿಯಾ	N_NNP	
+65	ಪ್ರೊಡಕ್ಷನ್	N_NN	
+66	ಅಧಿಸೂಚನೆ	N_NN	
+67	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5310">
+1	ಸಾಮಾನ್ಯ	JJ	
+2	ಶಾಸನಬದ್ಧ	N_NN	
+3	ನಿಬಂಧನೆಗಳು	N_NN	
+4	ಸೆಕ್ರೆಟರಿಯೇಟ್	N_NNP	
+5	ಇಲಾಖೆಗಳು	N_NN	
+6	ಹೊರಡಿಸಿದ	V_VM_VNF	
+7	ಅಧಿಸೂಚನೆಗಳು	N_NN	
+8	,	RD_PUNC	
+9	ಆದೇಶಗಳು	N_NN	
+10	,	RD_PUNC	
+11	ನಿಯಮಗಳು	N_NN	
+12	ಇತ್ಯಾದಿ	RP_RPD	
+13	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5311">
+1	ಉದಾಹರಣೆಗೆ	N_NN	
+2	,	RD_PUNC	
+3	ಚೆನ್ನೈ	N_NNP	
+4	ಫಾರ್ಮಸಿ	N_NN	
+5	ಕೌನ್ಸಿಲ್‌ನಲ್ಲಿನ	N_NN	
+6	ನಿಯಮಗಳಿಗೆ	N_NN	
+7	ತಿದ್ದುಪಡಿಗಳು	N_NN	
+8	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5312">
+1	ಕೆಲಸದ	N_NN	
+2	ನಿಯಮಗಳು	N_NN	
+3	,	RD_PUNC	
+4	ತಾತ್ಕಾಲಿಕ	JJ	
+5	ನಿಯಮಗಳು	N_NN	
+6	,	RD_PUNC	
+7	ಭಾರತೀಯ	N_NNP	
+8	ಕಾನೂನಿನ	N_NN	
+9	ಅಡಿಯಲ್ಲಿ	N_NN	
+10	ಹೊರಡಿಸಲಾದ	V_VM_VNF	
+11	ಆದೇಶಗಳು	N_NN	
+12	,	RD_PUNC	
+13	ಅಧಿಸೂಚನೆಗಳು	N_NN	
+14	(	RD_SYM	
+15	ಯು	N_NN	
+16	-	RD_SYM	
+17	ಎಂ	N_NN	
+18	)	RD_SYM	
+19	ರಾಜ್ಯ	N_NN	
+20	ಮತ್ತು	CC_CCD	
+21	ಅಧೀನ	JJ	
+22	ಕೆಲಸದ	N_NN	
+23	ನಿಯಮಗಳಿಗೆ	N_NN	
+24	ತಿದ್ದುಪಡಿಗಳು	N_NN	
+25	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5313">
+1	ಇಲಾಖೆಗಳ	N_NN	
+2	ಮುಖ್ಯಸ್ಥರು	N_NN	
+3	ಹೊರಡಿಸಿದ	V_VM_VNF	
+4	ಶಾಸನಬದ್ಧ	JJ	
+5	ಅಧಿಸೂಚನೆಗಳು	N_NN	
+6	ಮತ್ತು	CC_CCD	
+7	ಆದೇಶಗಳು	N_NN	
+8	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5314">
+1	ತಮಿಳುನಾಡು	N_NNP	
+2	ಕಾನೂನು	N_NN	
+3	ಕರಡುಗಳು	N_NN	
+4	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5315">
+1	ತಮಿಳುನಾಡು	N_NNP	
+2	ಕಾನೂನುಗಳು	N_NN	
+3	ಮತ್ತು	CC_CCD	
+4	ಸುಗ್ರೀವಾಜ್ಞೆಗಳು	N_NN	
+5	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5316">
+1	ಕೇಂದ್ರ	N_NN	
+2	ಕಾನೂನು	N_NN	
+3	ಕರಡುಗಳು	N_NN	
+4	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5317">
+1	ಕೇಂದ್ರ	N_NN	
+2	ಕಾಯಿದೆಗಳು	N_NN	
+3	ಮತ್ತು	CC_CCD	
+4	ಸುಗ್ರೀವಾಜ್ಞೆಗಳು	N_NN	
+5	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5318">
+1	ತಮಿಳುನಾಡು	N_NNP	
+2	ಸರ್ಕಾರ	N_NN	
+3	ಸಾರ್ವಜನಿಕ	N_NN	
+4	(	RD_SYM	
+5	ಚುನಾವಣೆ	N_NN	
+6	)	RD_SYM	
+7	ಇಲಾಖೆ	N_NN	
+8	ಅಧಿಸೂಚನೆಗಳು	N_NN	
+9	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5319">
+1	ಇಲಾಖೆಗಳ	N_NN	
+2	ಮುಖ್ಯಸ್ಥರ	N_NN	
+3	ಚುನಾವಣಾ	N_NN	
+4	ಅಧಿಸೂಚನೆಗಳು	N_NN	
+5	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5320">
+1	ಭಾರತದ	N_NNP	
+2	ಸಂವಿಧಾನದ	N_NN	
+3	192	QT_QTC	
+4	ನೇ	N_NN	
+5	ವಿಧಿಯ	N_NN	
+6	ಅಡಿಯಲ್ಲಿ	N_NN	
+7	ಶಾಸಕಾಂಗ	N_NN	
+8	ಸಭೆಯ	N_NN	
+9	ಸದಸ್ಯರನ್ನು	N_NN	
+10	ಅನರ್ಹಗೊಳಿಸುವ	V_VM_VNF	
+11	ಬಗ್ಗೆ	RP_RPD	
+12	ಗೌರವಾನ್ವಿತ	JJ	
+13	ರಾಜ್ಯಪಾಲರ	N_NN	
+14	ನಿರ್ಧಾರ	N_NN	
+15	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5321">
+1	ಭಾರತದ	N_NNP	
+2	ಚುನಾವಣಾ	N_NN	
+3	ಆಯೋಗದ	N_NN	
+4	ಅಧಿಸೂಚನೆಗಳು	N_NN	
+5	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5322">
+1	ಸಾರ್ವಜನಿಕ	JJ	
+2	ಕಾಳಜಿಯ	N_NN	
+3	ವಿಷಯಗಳ	N_NN	
+4	ಕುರಿತು	RP_RPD	
+5	ಇಲಾಖೆಗಳ	N_NN	
+6	ಮುಖ್ಯಸ್ಥರು	N_NN	
+7	ನೀಡಿದ	V_VM_VNF	
+8	ಸೂಚನೆಗಳು	N_NN	
+9	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5323">
+1	ತಮಿಳುನಾಡು	N_NNP	
+2	ವಿದ್ಯುತ್	N_NN	
+3	ಮಂಡಳಿಯ	N_NN	
+4	ಅಧಿಸೂಚನೆಗಳು	N_NN	
+5	,	RD_PUNC	
+6	ವಿಶ್ವವಿದ್ಯಾಲಯದ	N_NN	
+7	ಅಧಿಸೂಚನೆಗಳು	N_NN	
+8	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5324">
+1	ಹೆಸರು	N_NN	
+2	ಬದಲಾವಣೆಯಂತಹ	V_VM_VNF	
+3	ಖಾಸಗಿ	JJ	
+4	ಜಾಹೀರಾತುಗಳು	N_NN	
+5	,	RD_PUNC	
+6	(	RD_SYM	
+7	ತಮಿಳು	N_NNP	
+8	ಮತ್ತು	CC_CCD	
+9	ಇಂಗ್ಲಿಷ್	N_NNP	
+10	)	RD_SYM	
+11	-	RD_SYM	
+12	ಖಾಸಗಿ	JJ	
+13	ಮತ್ತು	CC_CCD	
+14	ಖಾಸಗಿ	JJ	
+15	ಕಂಪನಿಗಳುಜಾಹೀರಾತುಗಳು	N_NN	
+16	-	RD_SYM	
+17	ಕಂಪನಿಗಳ	N_NN	
+18	ಕಾಯಿದೆ	N_NN	
+19	ಅಡಿಯಲ್ಲಿ	N_NN	
+20	ಜಾಹೀರಾತುಗಳು	N_NN	
+21	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5325">
+1	ಭೂ	N_NN	
+2	ಸುಧಾರಣೆ	N_NN	
+3	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5326">
+1	ಚಂದಾದಾರಿಕೆಗೆ	N_NN	
+2	ಸಂಬಂಧಿಸಿದ	V_VM_VNF	
+3	ವಿವರಗಳು	N_NN	
+4	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5327">
+1	ಗೆಜೆಟ್‌ನ	N_NN	
+2	ಅಗತ್ಯವಿರುವ	V_VM_VNF	
+3	ವಿಭಾಗ	N_NN	
+4	/	RD_SYM	
+5	ವಿಭಾಗಕ್ಕೆ	N_NN	
+6	ಚಂದಾದಾರಿಕೆ	N_NN	
+7	ಮೊತ್ತವನ್ನು	N_NN	
+8	ಪಾವತಿಸುವ	V_VM_VNF	
+9	ಮೂಲಕ	RP_RPD	
+10	ಪಡೆಯಬಹುದು	V_VM_VF	
+11	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5328">
+1	ಚಂದಾದಾರಿಕೆ	N_NN	
+2	ಮೊತ್ತವನ್ನು	N_NN	
+3	ಕನಿಷ್ಠ	JJ	
+4	ಆರು	QT_QTC	
+5	ತಿಂಗಳವರೆಗೆ	N_NN	
+6	ಪಾವತಿಸಬೇಕು	V_VM_VF	
+7	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5329">
+1	ಚಂದಾದಾರಿಕೆಯನ್ನು	N_NN	
+2	ಪಾವತಿಸಿದ	V_VM_VNF	
+3	ತಿಂಗಳ	N_NN	
+4	ನಂತರದ	N_NN	
+5	ತಿಂಗಳು	N_NN	
+6	ಚಂದಾದಾರಿಕೆ	N_NNP	
+7	ಅವಧಿಯನ್ನು	N_NN	
+8	ಮೊದಲ	JJ	
+9	ದಿನದಿಂದ	N_NN	
+10	ಲೆಕ್ಕಹಾಕಲಾಗುತ್ತದೆ	V_VM_VF	
+11	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5330">
+1	ವೈಯಕ್ತಿಕ	JJ	
+2	ಪ್ರತಿಯನ್ನು	N_NN	
+3	ಪಡೆಯುವುದು	V_VM_VF	
+4	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5331">
+1	ನೀವು	PR_PRP	
+2	ತಮಿಳುನಾಡು	N_NNP	
+3	ರಾಜ್ಯಪತ್ರದ	N_NN	
+4	ನಿರ್ದಿಷ್ಟ	JJ	
+5	ಪ್ರತಿಯನ್ನು	N_NN	
+6	ಮಾತ್ರ	RP_RPD	
+7	ಪಡೆಯಲು	V_VM_VINF	
+8	ಬಯಸಿದರೆ	V_VM_VF	
+9	,	RD_PUNC	
+10	112	QT_QTC	
+11	,	RD_PUNC	
+12	ಅಣ್ಣಾ	N_NN	
+13	ರಸ್ತೆ	N_NN	
+14	,	RD_PUNC	
+15	ಚೆನ್ನೈ	N_NNP	
+16	-	RD_SYM	
+17	2	QT_QTC	
+18	ನಲ್ಲಿರುವ	V_VM_VNF	
+19	ಸರ್ಕಾರಿ	JJ	
+20	ಪ್ರಕಾಶನ	N_NN	
+21	ಕೇಂದ್ರವನ್ನು	N_NN	
+22	ಸಂಪರ್ಕಿಸಬಹುದು	V_VM_VF	
+23	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5332">
+1	ಗಮನಿಸಿ	V_VM_VNF	
+2	:	RD_PUNC	
+3	ತಮಿಳುನಾಡು	N_NNP	
+4	ರಾಜ್ಯಪತ್ರದ	N_NN	
+5	ಪ್ರತಿಗಳನ್ನು	N_NN	
+6	ಒಂದು	QT_QTC	
+7	ವರ್ಷದವರೆಗೆ	N_NN	
+8	ಮಾರಾಟಕ್ಕೆ	N_NN	
+9	ಇರಿಸಲಾಗುತ್ತದೆ	V_VM_VF	
+10	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5333">
+1	ಆದ್ದರಿಂದ	CC_CCS	
+2	ಸಾರ್ವಜನಿಕರು	N_NN	
+3	ರಾಜ್ಯಪತ್ರನಲ್ಲಿ	N_NN	
+4	ಪ್ರಕಟವಾದ	V_VM_VNF	
+5	ನಂತರ	N_NST	
+6	ಪ್ರತಿಗಳನ್ನು	N_NN	
+7	ತಕ್ಷಣ	RB	
+8	ಪಡೆಯುವಂತೆ	V_VM_VNF	
+9	ಕೋರಲಾಗಿದೆ	V_VM_VF	
+10	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5334">
+1	ದೂರುಗಳು	N_NN	
+2	ಮತ್ತು	CC_CCD	
+3	ಸಲಹೆಗಳಿಗಾಗಿ	N_NN	
+4	ಸಂಪರ್ಕಿಸಬೇಕಾದ	V_VM_VNF	
+5	ವಿಳಾಸ	N_NN	
+6	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5335">
+1	ಯೋಜನಾ	N_NN	
+2	ವ್ಯವಸ್ಥಾಪಕರು	N_NN	
+3	,	RD_PUNC	
+4	ಸರ್ಕಾರಿ	JJ	
+5	ಸೆಂಟ್ರಲ್	N_NN	
+6	ಪ್ರೆಸ್	N_NN	
+7	,	RD_PUNC	
+8	ವಲ್ಲಲಾರ್	N_NNP	
+9	ನಗರ	N_NN	
+10	,	RD_PUNC	
+11	ಚೆನ್ನೈ	N_NNP	
+12	-	RD_SYM	
+13	79	QT_QTC	
+14	,	RD_PUNC	
+15	ದೂರವಾಣಿ	N_NN	
+16	ಸಂಖ್ಯೆ	N_NN	
+17	–	RD_SYM	
+18	044	QT_QTC	
+19	-	RD_SYM	
+20	2520	QT_QTC	
+21	2227	QT_QTC	
+22	,	RD_PUNC	
+23	2520	QT_QTC	
+24	2228	QT_QTC	
+25	,	RD_PUNC	
+26	2520	QT_QTC	
+27	2229	QT_QTC	
+28	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5336">
+1	ಅನುಬಂಧ	N_NN	
+2	-	RD_SYM	
+3	4	QT_QTC	
+4	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5337">
+1	ತಮಿಳುನಾಡು	N_NNP	
+2	ರಾಜ್ಯಪತ್ರದಲ್ಲಿ	N_NN	
+3	ಸರ್ಕಾರಿ	JJ	
+4	ಪ್ರಕಟಣೆಗಳು	N_NN	
+5	ಮಾರಾಟ	N_NN	
+6	ಇತ್ಯಾದಿ	RP_RPD	
+7	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5338">
+1	ಮಾರಾಟ	N_NN	
+2	ಕೇಂದ್ರದ	N_NN	
+3	ವಿಳಾಸ	N_NN	
+4	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5339">
+1	ಸರ್ಕಾರಿ	JJ	
+2	ಪ್ರಕಟಣೆಗಳ	N_NN	
+3	ಮಾರಾಟ	N_NN	
+4	ವಿಭಾಗ	N_NN	
+5	-	RD_SYM	
+6	112	QT_QTC	
+7	,	RD_PUNC	
+8	ಅಣ್ಣಾ	N_NN	
+9	ರಸ್ತೆ	N_NN	
+10	,	RD_PUNC	
+11	ಚೆನ್ನೈ	N_NNP	
+12	-	RD_SYM	
+13	600	QT_QTC	
+14	002	QT_QTC	
+15	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5340">
+1	ಉಪ	N_NN	
+2	-	RD_SYM	
+3	ಮಾರಾಟ	N_NN	
+4	ಕೇಂದ್ರ	N_NN	
+5	,	RD_PUNC	
+6	ಸರ್ಕಾರಿ	JJ	
+7	ಬ್ರಾಂಚ್	N_NN	
+8	ಪ್ರೆಸ್	N_NN	
+9	,	RD_PUNC	
+10	ಹೈಕೋರ್ಟ್	N_NNP	
+11	ಕಾಂಪ್ಲೆಕ್ಸ್	N_NN	
+12	,	RD_PUNC	
+13	ಚೆನ್ನೈ	N_NNP	
+14	-	RD_SYM	
+15	600	QT_QTC	
+16	104	QT_QTC	
+17	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5341">
+1	ಈ	DM_DMD	
+2	ಕೇಂದ್ರದಲ್ಲಿ	N_NN	
+3	ಮಾರಾಟವಾದ	JJ	
+4	ಪ್ರಕಟಣೆಗಳು	N_NN	
+5	ಮತ್ತು	CC_CCD	
+6	ಅವುಗಳನ್ನು	PR_PRP	
+7	ಮಾರಾಟಕ್ಕಾಗಿ	N_NN	
+8	ಉಳಿಸಿಕೊಳ್ಳುವ	V_VM_VNF	
+9	ಅವಧಿಯನ್ನು	N_NN	
+10	ಕೆಳಗಿನ	N_NST	
+11	ಕೋಷ್ಟಕದಲ್ಲಿ	N_NN	
+12	ನೀಡಲಾಗಿದೆ	V_VM_VF	
+13	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5342">
+1	ಸರ್ಕಾರಿ	JJ	
+2	ಪರೀಕ್ಷೆಗಳಿಗೆ	N_NN	
+3	ಪಠ್ಯಕ್ರಮ	N_NN	
+4	,	RD_PUNC	
+5	ಜಿಲ್ಲಾ	N_NN	
+6	ಪತ್ರಿಕೆಗಳು	N_NN	
+7	,	RD_PUNC	
+8	ಜಿಲ್ಲಾ	N_NN	
+9	ಜನಗಣತಿ	N_NN	
+10	ಕೈಪಿಡಿಗಳು	N_NN	
+11	,	RD_PUNC	
+12	ಅಂಕಿಅಂಶ	N_NN	
+13	ಇಲಾಖೆಯ	N_NN	
+14	ಕೈಪಿಡಿಗಳು	N_NN	
+15	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5343">
+1	10	QT_QTC	
+2	ವರ್ಷಗಳು	N_NN	
+3	ಅಥವಾ	CC_CCD	
+4	ಇವುಗಳಲ್ಲಿ	PR_PRP	
+5	ಇತ್ತೀಚಿಗೆ	N_NN	
+6	ಪ್ರಕಟವಾದ	V_VM_VNF	
+7	ಹೊಸ	JJ	
+8	ಪುಸ್ತಕಗಳು	N_NN	
+9	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5344">
+1	ತಮಿಳುನಾಡು	N_NNP	
+2	ಸರ್ಕಾರದ	N_NN	
+3	ಕಾನೂನುಗಳು	N_NN	
+4	(	RD_SYM	
+5	ಇಂಗ್ಲಿಷ್	N_NNP	
+6	ಮತ್ತು	CC_CCD	
+7	ತಮಿಳಿನಲ್ಲಿ	N_NNP	
+8	)	RD_SYM	
+9	ಪ್ರಾಯೋಗಿಕ	JJ	
+10	ಪಠ್ಯಗಳು	N_NN	
+11	,	RD_PUNC	
+12	ಕಂದಾಯ	N_NN	
+13	ಇಲಾಖೆಯ	N_NN	
+14	ಪ್ರಾಯೋಗಿಕ	JJ	
+15	ಆದೇಶಗಳು	N_NN	
+16	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5345">
+1	7	QT_QTC	
+2	ವರ್ಷಗಳು	N_NN	
+3	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5346">
+1	ವೈವಿಧ್ಯಮಯ	JJ	
+2	ಬಿಡುಗಡೆಗಳು	N_NN	
+3	5	QT_QTC	
+4	ವರ್ಷಗಳು	N_NN	
+5	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5347">
+1	ಮುಂಗಡ	JJ	
+2	ಪತ್ರದ	N_NN	
+3	ವೆಚ್ಚಗಳು	N_NN	
+4	,	RD_PUNC	
+5	ಪಂಚವಾರ್ಷಿಕ	N_NN	
+6	ಯೋಜನಾ	N_NN	
+7	ಕೈಪಿಡಿಗಳು	N_NN	
+8	,	RD_PUNC	
+9	ಶಾಸಕಾಂಗ	N_NNP	
+10	ಪ್ರಕ್ರಿಯೆಗಳು	N_NN	
+11	,	RD_PUNC	
+12	ಭಾರತೀಯ	N_NNP	
+13	ಕಾಯಿದೆ	N_NN	
+14	ಅಧಿಸೂಚನೆಗಳು	N_NN	
+15	(	RD_SYM	
+16	ಚೆನ್ನೈ	N_NNP	
+17	)	RD_SYM	
+18	3	QT_QTC	
+19	ವರ್ಷಗಳವರೆಗೆ	N_NN	
+20	ಅಥವಾ	CC_CCD	
+21	ಅವಧಿ	N_NN	
+22	ಮುಗಿಯುವವರೆಗೆ	V_VM_VNF	
+23	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5348">
+1	ಜನರ	N_NN	
+2	ಸನ್ನದ್ದು	N_NN	
+3	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5349">
+1	ತಮಿಳುನಾಡು	N_NNP	
+2	ಮ್ಯಾಗ್ನೆಸೈಟ್	N_NNP	
+3	ಲಿಮಿಟೆಡ್	N_NNP	
+4	,	RD_PUNC	
+5	ಸೇಲಂ	N_NN	
+6	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5350">
+1	ತಮಿಳುನಾಡು	N_NNP	
+2	ಮ್ಯಾಗ್ನೆಸೈಟ್	N_NNP	
+3	ಲಿಮಿಟೆಡ್	N_NNP	
+4	ಅನ್ನು	PSP	
+5	ತಮಿಳುನಾಡು	N_NNP	
+6	ಸರ್ಕಾರವು	N_NN	
+7	ಕಂಪನಿಗಳ	N_NN	
+8	ಕಾಯಿದೆ	N_NN	
+9	,	RD_PUNC	
+10	1956	QT_QTC	
+11	ರ	N_NN	
+12	ಅಡಿಯಲ್ಲಿ	N_NN	
+13	17.1.1979	QT_QTC	
+14	ರಂದು	N_NN	
+15	ಮ್ಯಾಗ್ನೆಸೈಟ್	N_NN	
+16	ಗಣಿಗಾರಿಕೆ	N_NN	
+17	ಕಾರ್ಯಾಚರಣೆಗಳನ್ನು	N_NN	
+18	ಕೈಗೊಳ್ಳಲು	V_VM_VINF	
+19	ಮತ್ತು	CC_CCD	
+20	ಮ್ಯಾಗ್ನಸೈಟ್	N_NN	
+21	ಗುಣಮಟ್ಟವನ್ನು	N_NN	
+22	ಜಾಗತಿಕ	JJ	
+23	ಗುಣಮಟ್ಟಕ್ಕೆ	N_NN	
+24	ಹೆಚ್ಚಿಸಲು	V_VM_VINF	
+25	ಸಂಪೂರ್ಣ	JJ	
+26	ಸ್ವಾಮ್ಯದ	N_NN	
+27	ಕಂಪನಿಯಾಗಿ	N_NN	
+28	ಸ್ಥಾಪಿಸಿತು	V_VM_VF	
+29	.	RD_PUNC	
+</Sentence>
+
+<Sentence id="5351">
+1	ಮ್ಯಾಗ್ನೆಸೈಟ್	N_NN	
+2	ಮತ್ತು	CC_CCD	
+3	ಅದರ	PR_PRP	
+4	ಉಪಯೋಗಗಳು	N_NN	
+5	.	RD_PUNC	
+</Sentence>
+
+
