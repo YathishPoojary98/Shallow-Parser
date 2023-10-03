@@ -1,0 +1,30 @@
+<Sentence id='1'>
+1	((	NP	
+1.1	ಇದು	DM__DMD	<fs af='ಮಗರ್,pn,,sg,3,d,0,0'>
+	))
+2	((	VGNN	
+2.1	ಚಿಕ್ಕದಾದ	V__VM__VNG	<fs af='ನದಿ,v,,sg,3,o,ಯ+ಅ,0'>
+	))
+3	((	NP	
+3.1	ಸುಂದರ	JJ	<fs af='ವಾಸ್ತವ,adj,,,,o,ಇಕ,0'>
+3.2	ಹಳ್ಳಿ	N__NN	<fs af='ಶಾಂತ,n,,sg,3,d,0,0'>
+3.3	,	RD__PUNC	<fs af='COMMA,punc,,,,,,'>
+	))
+4	((	CCP	
+4.1	ಇಲ್ಲಿಂದ	CC__CCS	<fs af='ಅದು,avy,,sg,3,o,ಅರ+ಅ,0'>
+	))
+5	((	NP	
+5.1	ಹಲವಾರು	QT__QTF	<fs af='ವಾಸ್ತವ,adj,,,,o,ಇಕ,0'>
+5.2	ಗ್ಲೇಷಿಯರ್‌ಗಳ	N__NN	<fs af='ಸುಂದರ,n,,sg,3,o,ತೆ,0'>
+	))
+6	((	NP	
+6.1	ಯಾತ್ರೆ	N__NN	<fs af='.,n,,sg,,d,0,0'>
+	))
+7	((	VGF	
+7.1	ಮಾಡಬಹುದು	V__VM__VF	<fs af=',v,,,,,,0'>
+	))
+8	((	BLK	
+8.1	.	RD__PUNC	<fs af=',punc,,,,,,'>
+	))
+</Sentence>
+

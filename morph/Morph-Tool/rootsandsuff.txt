@@ -1,0 +1,9 @@
+ಮಣಿಪುರ	0	NULL	sg	3	d	ಮಣಿಪುರ	True	N__NNP,True	NULL
+ಪರಿಸ್ಥಿತಿ	0	NULL	sg	3	d	ಪರಿಸ್ಥಿತಿ	True	N__NN,True	NULL
+ಬಗ್ಗೆ	0	NULL	NULL	NULL	d	ಬಗ್ಗೆ	True	RP__RPD,True	NULL
+ವಿಶ್ವಸಂಸ್ಥೆ	0	NULL	sg	3	d	ವಿಶ್ವಸಂಸ್ಥೆ	True	N__NNP,True	NULL
+ತಜ್ಞ	ಅರು+ಅ	any	pl	3	o	ತಜ್ಞರ	True	N__NN,True	NULL
+ಅವಲೋಕನ	ಗಳು+ಅನ್ನು	NULL	pl	3	o	ಅವಲೋಕನಗಳನ್ನು	True	N__NN,True	NULL
+ತಿರಸ್ಕರಿಸು	ಇದ+ಅ	NULL	NULL	NULL	o	ತಿರಸ್ಕರಿಸಿದ	True	V__VM__VNG,True	NULL
+ಭಾರತ	0	NULL	sg	3	d	ಭಾರತ	True	N__NNP,True	NULL
+.	0	NULL	NULL	NULL	d	.	True	RD__PUNC,True	NULL
